@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ilnarkhasanov
-- 👀 I’m interested in Python Web Development
-- 🌱 I’m currently learning Django, FastAPI.
-- 💞️ I’m looking to collaborate on Backend Development
+- 👀 I’m interested in Software Development and Machine Learning.
+- 🌱 I’m currently learning Web development, Rust and ML frameworks.
+- 💞️ I’m looking to collaborate on Backend and ML.
 - 📫 How to reach me: ilnarikhasanov@gmail.com
 
 <!---
